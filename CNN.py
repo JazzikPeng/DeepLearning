@@ -1,15 +1,4 @@
 
-# coding: utf-8
-
-# In[1]:
-
-
-# coding: utf-8
-
-# # HW2
-# Zhejian Peng
-
-# In[1]:
 
 
 import numpy as np
